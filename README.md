@@ -1,7 +1,8 @@
 # NFL-Pass-Rush-Analysis-using-Tracking-Data
 Overview
 
-This project analyzes NFL pass rush behavior using player tracking data from the NFL Big Data Bowl. The goal is to understand how defensive alignment, movement patterns, and situational context influence quarterback pressure.
+This project analyzes NFL pass rush behavior using player tracking data from
+https://www.kaggle.com/competitions/nfl-big-data-bowl-2021 the NFL Big Data Bowl. The goal is to understand how defensive alignment, movement patterns, and situational context influence quarterback pressure.
 
 Key Contributions
 Engineered alignment features (head_up, inside_shade, off_tackle, wide9_plus)
